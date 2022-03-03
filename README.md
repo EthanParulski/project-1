@@ -1,4 +1,4 @@
-# Basil Blooket hack v 1.0.1
+# Basil Blooket hack v 1.0.2
 
 # Copy everything in Javascript then put everything you copyed into a bookmark and name it whatever you want. Whenever you are in a blooket game click the bookmark and it should start working.
 
